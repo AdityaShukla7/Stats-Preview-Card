@@ -22,15 +22,9 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
-- Live Site URL: https://adityasshukla.github.io/Stats-Preview-Card/
-
-## My process
+- Live Site URL: https://adityashukla7.github.io/Stats-Preview-Card/
 
 ### Built with
 
